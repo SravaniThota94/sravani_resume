@@ -1,0 +1,17 @@
+/* @media only screen and (max-width: 1199px) {
+.myimg {
+        max-width: 200px;
+        margin-bottom: 30px;
+    }
+} */
+/*mobile media queries*/
+@media only screen and (max-width: 767px) {
+    .myimg {
+            max-width: 180px;
+            margin-bottom: 30px;
+        }
+    .studynames{
+        margin-bottom: 0;
+    }
+}
+/*mobile media queries*/
